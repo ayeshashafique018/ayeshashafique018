@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Shafique</h1>
-<h3 align="center">A passionate Frontend Developer pursuing a Bachelor's in Computer Science from Pakistan
+<h3 align="center">A passionate Frontend Developer from Pakistan
  </h3>
 
 
