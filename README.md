@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayesha shafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha shafique" height="30" width="40" /></a>
-<a href="https://fb.com/ayesha shafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesha shafique" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayesha-shafique-2a786a194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha shafique" height="30" width="40" /></a>
+<a href="https://fb.com/ayesha shafique" target="blank"><img align="center" src="https://www.facebook.com/people/Ayesha-Shafique/pfbid02wN5pYfykTmpcnjPHv1gkeABev7mC6uz6ASVXSvG9hpBsFJTtXVnuRD6DtTpzS5iJl/?mibextid=ZbWKwL" alt="ayesha shafique" height="30" width="40" /></a>
 <a href="https://instagram.com/speak_peak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="speak_peak_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@speak_peak_?si=2oqfiq9eyvmtefrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@speak_peak_?si=2oqfiq9eyvmtefrh" height="30" width="40" /></a>
+<a href="https://youtube.com/@speak_peak_?si=2OQFiQ9EyvmTEfrH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@speak_peak_?si=2oqfiq9eyvmtefrh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
