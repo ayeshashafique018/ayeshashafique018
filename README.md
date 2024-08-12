@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB.**
 
-- 📝 I post on [Instagram](https://www.instagram.com/speak_peak_?igsh=c3B0MHdtN2xraXNm)
+- 📝 I love to post on [Instagram](https://www.instagram.com/speak_peak_?igsh=c3B0MHdtN2xraXNm)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, jQuery.**
 
