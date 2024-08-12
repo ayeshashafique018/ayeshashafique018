@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React ,Nodejs and MangoDB.**
 
-- 👨‍💻 All of my projects are available at [ayeshas-projects-4ad34418](ayeshas-projects-4ad34418)
+
 
 - 📝 I post on [https://www.instagram.com/speak_peak_?igsh=c3B0MHdtN2xraXNm](https://www.instagram.com/speak_peak_?igsh=c3B0MHdtN2xraXNm)
 
